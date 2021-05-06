@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "306",
+      "id": 3
+    },
+    {
+      "nombre": "Amburguesa de queso",
+      "precio": "297",
+      "id": 13
+    },
+    {
+      "nombre": "Pizza Napolitana",
+      "precio": 15,
+      "id": 14
+    },
+    {
+      "nombre": "bocadito de jamon",
+      "precio": 15,
+      "id": 19
+    },
+    {
+      "nombre": "pan con pasta",
+      "precio": 5,
+      "id": 20
+    }
+  ]
+}
